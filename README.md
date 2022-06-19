@@ -21,7 +21,9 @@ Microservice with Node.js and Apache Kafka
 6. Run Docker
 7. Call `POST localhost:3333/certifications` to send the message from the microservice(api system/Publisher) to "certification" system (Consumer).
 
-# Useful source
+<hr>
+
+## Useful sources
 
 - [Guide to Setting Up Apache Kafka Using Docker](https://www.baeldung.com/ops/kafka-docker-setup)
 - [Apache Kafka](https://kafka.apache.org/quickstart)
